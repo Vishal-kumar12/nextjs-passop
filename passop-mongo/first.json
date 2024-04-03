@@ -1,0 +1,16 @@
+{
+    "name": "Harry",
+    "score": 11.75,
+    "isAdmin": false,
+    "licence": null,
+    "shopitem": ["food", "clothes", "sunflower oil"],
+    "myObj":{
+        "name":"nested",
+        "marks":45,
+        "shopitem2": ["food", "clothes", {"a": true}]
+
+    },
+
+    "learn": "json ko learn krne ke liye banayi gyi thi"
+}
+
